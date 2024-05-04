@@ -1,0 +1,7 @@
+# Documento Histórico de Versões
+
+[02/05/2024] - [0.3.0] Pacotes de Funcionalidades e correções:
+
+1. FEATURE: Pacote Inicial, estrutura do projeto.
+2. FEATURE: Configuração de rotas do projeto.
+3. FEATURE: Desenvolvimento da tela inicial onde é feito o roteamento das rotas do projeto.
